@@ -1,0 +1,8 @@
+let Number1 = 45
+let Number2 =5
+
+console.log(`Addition: (${Number1} + ${Number2}) = ${Number1+Number2}`);
+console.log(`Subtraction: (${Number1} - ${Number2}) = ${Number1-Number2}`);
+console.log(`multiplication: (${Number1} * ${Number2}) = ${Number1*Number2}`);
+console.log(`Divison: (${Number1} / ${Number2}) = ${Number1/Number2}`);
+console.log(`Modulus: (${Number1} % ${Number2}) = ${Number1%Number2}`);
